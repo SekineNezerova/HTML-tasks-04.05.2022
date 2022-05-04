@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+height: 700vh;
+    background-color:cornflowerblue;
+}
+.div{
+}
+
+
+.div1{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
+.div2{
+    margin: 10px;
+
+    height: 300px;
+    background-color: white;
+}
+.div3{
+    margin: 10px;
+
+    height: 150px;
+    background-color: white;
+}
+.div4{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
+.div5{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
+.div6{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
+.div7{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
+.div8{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
+.div9{
+    margin: 10px;
+    height: 150px;
+    background-color: white;
+}
